@@ -1,3 +1,4 @@
+[Travis-CI](https://api.travis-ci.org/opmineserver/godot-builds.svg?branch=master)
 [![Godot Engine logo](/logo.png)](https://godotengine.org)
 
 ## Godot Engine
